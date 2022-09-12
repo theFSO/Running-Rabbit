@@ -1,9 +1,4 @@
 # Team 17 3GC3 Project
-Team members: 
-- Zicheng Guo
-- Jianlan Ding
-- Kaicheng Xu
-- Hanjie Xu
 
 ## How to run
 Simple download everything from the repo.(be aware of directory, main.cpp is not in the src) Make sure you are in the same directory as makefile. Then just type 'make'.
